@@ -57,7 +57,7 @@ export default function Footer() {
                 </a>
               </div>
             </div>
-          </div>
+
         <div className="flex mt-568:flex-row flex-col items-center justify-between mt-10">
           <p>&#169; 2022 Dhaaz</p>
         </div>
