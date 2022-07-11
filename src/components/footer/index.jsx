@@ -60,14 +60,6 @@ export default function Footer() {
           </div>
   <div className="flex mt-568:flex-row flex-col items-center justify-between mt-10">
           <p>&#169; 2022 DHAAZ</p>
-          <div className="space-x-4">
-            <Link to="/" className="hover:text-red-600 duration-200">
-              Terms & Agreements
-            </Link>
-            <Link to="/" className="hover:text-red-600 duration-200">
-              Privacy Policy
-            </Link>
-          </div>
         </div>
       </div>
     </footer>
