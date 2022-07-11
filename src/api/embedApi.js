@@ -1,4 +1,4 @@
-import { EMBED_URL } from 'src/config';
+import { EMBED_URL } from '../config';
 
 // ----------------------------------------------------------------------
 
