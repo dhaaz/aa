@@ -22,7 +22,7 @@ export default function Footer() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.facebook.com/axnguyenit/"
+                  href="https://www.facebook.com/"
                   className="p-1 rounded-full"
                 >
                   <svg viewBox="0 0 24 24" width="24" height="24">
@@ -80,26 +80,7 @@ export default function Footer() {
             </ul>
           </div>
 
-          <div className="space-y-2 mt-812:text-left text-center">
-            <h4 className="text-2xl font-semibold tracking-wider">Company</h4>
-            <ul>
-              <li>
-                <Link to="/" className="duration-200 hover:text-red-600">
-                  Team
-                </Link>
-              </li>
-              <li>
-                <Link to="/" className="duration-200 hover:text-red-600">
-                  Plan
-                </Link>
-              </li>
-              <li>
-                <Link to="/" className="duration-200 hover:text-red-600">
-                  Become a member
-                </Link>
-              </li>
-            </ul>
-          </div>
+
 
           <div className="space-y-2 mt-812:text-left text-center">
             <h4 className="text-2xl font-semibold tracking-wider">Support</h4>
