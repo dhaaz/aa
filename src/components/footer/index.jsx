@@ -15,7 +15,6 @@ export default function Footer() {
         <div className="grid grid-cols-1 place-items-center gap-10 mt-568:content-start mt-568:grid-cols-2 mt-812:grid-cols-4 mt-6">
                   <svg viewBox="0 0 24 24" width="24" height="24">
                   </svg>
-               </div>
             </div>
           </div>
           
