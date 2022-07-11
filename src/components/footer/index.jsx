@@ -58,27 +58,6 @@ export default function Footer() {
               </div>
             </div>
           </div>
-
-          <div className="space-y-2 mt-812:text-left text-center">
-            <h4 className="text-2xl font-semibold tracking-wider">About</h4>
-            <ul>
-              <li>
-                <Link to="/" className="duration-200 hover:text-red-600">
-                  About Us
-                </Link>
-              </li>
-              <li>
-                <Link to="/" className="duration-200 hover:text-red-600">
-                  Features
-                </Link>
-              </li>
-              <li>
-                <Link to="/" className="duration-200 hover:text-red-600">
-                  New Movies
-                </Link>
-              </li>
-            </ul>
-          </div>
   <div className="flex mt-568:flex-row flex-col items-center justify-between mt-10">
           <p>&#169; 2022 DHAAZ</p>
           <div className="space-x-4">
