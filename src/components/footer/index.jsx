@@ -22,7 +22,7 @@ export default function Footer() {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.facebook.com/"
+                  href="https://www.facebook.com/axnguyenit/"
                   className="p-1 rounded-full"
                 >
                   <svg viewBox="0 0 24 24" width="24" height="24">
@@ -60,63 +60,63 @@ export default function Footer() {
           </div>
 
           <div className="space-y-2 mt-812:text-left text-center">
-            <h4 className="text-2xl font-semibold tracking-wider"></h4>
+            <h4 className="text-2xl font-semibold tracking-wider">About</h4>
             <ul>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-               
+                  About Us
                 </Link>
               </li>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-                 
+                  Features
                 </Link>
               </li>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-                 
+                  New Movies
                 </Link>
               </li>
             </ul>
           </div>
 
           <div className="space-y-2 mt-812:text-left text-center">
-            <h4 className="text-2xl font-semibold tracking-wider"></h4>
+            <h4 className="text-2xl font-semibold tracking-wider">Company</h4>
             <ul>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-                 
+                  Team
                 </Link>
               </li>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-                 
+                  Plan
                 </Link>
               </li>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-                  
+                  Become a member
                 </Link>
               </li>
             </ul>
           </div>
 
           <div className="space-y-2 mt-812:text-left text-center">
-            <h4 className="text-2xl font-semibold tracking-wider"></h4>
+            <h4 className="text-2xl font-semibold tracking-wider">Support</h4>
             <ul>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-                 
+                  FAQs
                 </Link>
               </li>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-                 
+                  Support Center
                 </Link>
               </li>
               <li>
                 <Link to="/" className="duration-200 hover:text-red-600">
-               
+                  Contact
                 </Link>
               </li>
             </ul>
@@ -126,10 +126,10 @@ export default function Footer() {
           <p>&#169; 2022 DHAAZ</p>
           <div className="space-x-4">
             <Link to="/" className="hover:text-red-600 duration-200">
-             
+              Terms & Agreements
             </Link>
             <Link to="/" className="hover:text-red-600 duration-200">
-             
+              Privacy Policy
             </Link>
           </div>
         </div>
