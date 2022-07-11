@@ -23,7 +23,6 @@ export default function Footer() {
           <div className="space-x-4">
           </div>
         </div>
-      </div>
     </footer>       
   );
 };
